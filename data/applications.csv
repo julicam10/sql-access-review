@@ -1,0 +1,9 @@
+app_id,app_name,business_area,criticality,app_owner
+1,NeoPay Core,Pagos y Transferencias,Alta,Laura Mejía
+2,NeoOnboarding KYC,Onboarding de Clientes,Alta,Camilo Restrepo
+3,NeoCredit Engine,Créditos,Alta,Diana Salazar
+4,NeoFraud Monitor,Antifraude y Monitoreo Transaccional,Alta,Julián Ospina
+5,NeoSupport Desk,Soporte al Cliente,Media,Marcela Guerrero
+6,NeoAI Assistant,Soporte al Cliente,Media,Sergio Beltrán
+7,NeoTreasury,Tesorería,Alta,Paola Cifuentes
+8,NeoBI Reporting,Analítica y Reportes,Baja,Ricardo Pineda

@@ -1,0 +1,8 @@
+conflict_id,role_a_id,role_b_id,description,risk_level
+1,1,2,Registrar pago + aprobar pago,Alta
+2,5,6,Analizar solicitud KYC + aprobar onboarding,Alta
+3,8,9,Evaluar crédito + aprobar crédito,Alta
+4,17,18,Registrar movimiento de tesorería + aprobarlo,Alta
+5,3,2,Administrar plataforma de pagos + aprobar pagos,Alta
+6,12,11,Modificar reglas antifraude + gestionar alertas,Media
+7,16,15,Administrar asistente IA + operar prompts,Media

@@ -1,0 +1,41 @@
+user_id,username,full_name,email,department,account_owner,status,created_date,last_review_date
+1,acastro,Andrea Castro,acastro@neopagos.co,Tesorería,Paola Cifuentes,Activo,2022-08-22,2026-07-20
+2,cgomez,Camilo Gómez,cgomez@neopagos.co,Tesorería,Paola Cifuentes,Activo,2023-06-18,
+3,dherrera,Daniela Herrera,dherrera@neopagos.co,Tesorería,Paola Cifuentes,Activo,2022-05-07,2026-08-03
+4,fmendoza,Felipe Mendoza,fmendoza@neopagos.co,Tesorería,Paola Cifuentes,Activo,2022-07-28,2026-07-26
+5,jsalamanca,Juliana Salamanca,jsalamanca@neopagos.co,Operaciones de Pagos,Laura Mejía,Activo,2025-01-04,2026-03-10
+6,macosta,Mateo Acosta,macosta@neopagos.co,Operaciones de Pagos,Laura Mejía,Activo,2022-09-28,2026-08-11
+7,vlozano,Valentina Lozano,vlozano@neopagos.co,Operaciones de Pagos,Laura Mejía,Activo,2023-04-19,2026-07-30
+8,storres,Santiago Torres,storres@neopagos.co,Operaciones de Pagos,,Activo,2024-03-06,2026-09-12
+9,lvargas,Laura Vargas,lvargas@neopagos.co,Operaciones de Pagos,Laura Mejía,Activo,2021-02-26,
+10,srojas,Sebastián Rojas,srojas@neopagos.co,Onboarding y KYC,Camilo Restrepo,Activo,2023-03-28,2026-04-18
+11,ncardenas,Natalia Cárdenas,,Onboarding y KYC,Camilo Restrepo,Activo,2022-04-05,2026-08-14
+12,jquintero,Julián Quintero,jquintero@neopagos.co,Onboarding y KYC,Camilo Restrepo,Activo,2022-08-11,
+13,proa,Paula Roa,proa@neopagos.co,Onboarding y KYC,Camilo Restrepo,Inactivo,2023-07-12,2026-01-30
+14,ecortes,Esteban Cortés,ecortes@neopagos.co,Onboarding y KYC,,Activo,2022-01-30,2026-07-26
+15,cramirez,Carolina Ramírez,cramirez@neopagos.co,Créditos,Diana Salazar,Inactivo,2024-02-07,2026-03-30
+16,mmoreno,Mauricio Moreno,mmoreno@neopagos.co,Créditos,Diana Salazar,Inactivo,2024-09-09,2026-04-28
+17,lpardo,Lina Pardo,lpardo@neopagos.co,Créditos,Diana Salazar,Activo,2023-10-09,2026-09-12
+18,cortiz,Cristian Ortiz,cortiz@neopagos.co,Créditos,Diana Salazar,Inactivo,2023-08-06,2026-01-29
+19,mduarte,Marcela Duarte,mduarte@neopagos.co,Créditos,Diana Salazar,Activo,2021-01-17,2026-04-15
+20,omedina,Óscar Medina,omedina@neopagos.co,Antifraude,Julián Ospina,Activo,2021-06-09,2026-09-15
+21,atorres,Andrea Torres,atorres@neopagos.co,Antifraude,Julián Ospina,Activo,2021-05-11,
+22,cvargas,Camilo Vargas,cvargas@neopagos.co,,Julián Ospina,Activo,2022-11-05,2026-06-12
+23,drojas,Daniela Rojas,drojas@neopagos.co,Antifraude,,Activo,2023-12-18,2026-07-23
+24,fcardenas,Felipe Cárdenas,,Soporte,Marcela Guerrero,Activo,2022-10-13,2026-07-31
+25,jquintero25,Juliana Quintero,jquintero25@neopagos.co,Soporte,Marcela Guerrero,Activo,2022-12-18,
+26,mroa,Mateo Roa,mroa@neopagos.co,Soporte,,Activo,2025-08-31,2026-07-21
+27,vcortes,Valentina Cortés,vcortes@neopagos.co,Soporte,Marcela Guerrero,Inactivo,2021-06-17,2026-02-14
+28,sramirez,Santiago Ramírez,sramirez@neopagos.co,Soporte,Marcela Guerrero,Activo,2024-09-24,2026-03-31
+29,lmoreno,Laura Moreno,lmoreno@neopagos.co,Soporte,Marcela Guerrero,Activo,2022-02-15,
+30,spardo,Sebastián Pardo,spardo@neopagos.co,Soporte,,Inactivo,2022-05-31,2026-02-27
+31,nortiz,Natalia Ortiz,nortiz@neopagos.co,TI,,Activo,2021-06-23,2026-08-18
+32,jduarte,Julián Duarte,jduarte@neopagos.co,TI,Hernán Duque,Activo,2025-07-09,
+33,pmedina,Paula Medina,,TI,Hernán Duque,Activo,2021-01-12,2026-03-05
+34,ecastro,Esteban Castro,ecastro@neopagos.co,,Hernán Duque,Activo,2025-05-13,2026-07-28
+35,cgomez35,Carolina Gómez,cgomez35@neopagos.co,TI,Hernán Duque,Inactivo,2021-02-05,2026-05-30
+36,mherrera,Mauricio Herrera,mherrera@neopagos.co,Analítica,Ricardo Pineda,Activo,2023-05-27,2026-07-18
+37,lmendoza,Lina Mendoza,lmendoza@neopagos.co,,Ricardo Pineda,Activo,2021-05-25,2026-09-19
+38,csalamanca,Cristian Salamanca,csalamanca@neopagos.co,Analítica,Ricardo Pineda,Inactivo,2025-10-12,2026-02-05
+39,macosta39,Marcela Acosta,macosta39@neopagos.co,Cumplimiento,Natalia Ríos,Activo,2023-06-01,
+40,olozano,Óscar Lozano,olozano@neopagos.co,Cumplimiento,Natalia Ríos,Activo,2025-07-15,2026-07-27
